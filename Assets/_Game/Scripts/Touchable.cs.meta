@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 703a2ffd2ed55484f83cbea32aa916bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _touchParticlePrefab: {instanceID: 0}
+  - _touchSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
