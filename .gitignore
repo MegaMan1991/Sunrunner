@@ -1,0 +1,44 @@
+# ================ #
+# Unity Essentials #
+# ================ #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Pp]ackage[Cc]ache/
+
+# =============== #
+# Autogen Files   #
+# =============== #
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ============== #
+# OS Generated   #
+# ============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# LFS Tracking    #
+# =============== #
+*.dll
+*.exe
+*.dylib
+*.bin
+*.assetbundle
