@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|d:\\utd spring 2025\\mobile game development\\project 4\\sunrunner\\assets\\_game\\scripts\\gamestates\\gamefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|d:\\utd spring 2025\\mobile game development\\project 4\\sunrunner\\assets\\_game\\scripts\\gamestates\\gameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\gamestates\\gameplaystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|d:\\utd spring 2025\\mobile game development\\project 4\\sunrunner\\assets\\_game\\scripts\\gamestates\\gamesetupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\gamestates\\gamesetupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\assets\\_game\\scripts\\gamestates\\gamefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{124CFC9A-5980-018A-3924-34F974CDD65F}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\gamestates\\gamefsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GamePlayState.cs",
+              "DocumentMoniker": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\Scripts\\GameStates\\GamePlayState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\GameStates\\GamePlayState.cs",
+              "ToolTip": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\Scripts\\GameStates\\GamePlayState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\GameStates\\GamePlayState.cs",
+              "ViewState": "AgIAACMAAADAAAAAAMAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:20:28.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameSetupState.cs",
+              "DocumentMoniker": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\Scripts\\GameStates\\GameSetupState.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\GameStates\\GameSetupState.cs",
+              "ToolTip": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\Scripts\\GameStates\\GameSetupState.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\GameStates\\GameSetupState.cs",
+              "ViewState": "AgIAABoAAADAAAAAAMArwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:23:24.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameFSM.cs",
               "DocumentMoniker": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\Scripts\\GameStates\\GameFSM.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\GameStates\\GameFSM.cs",
               "ToolTip": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\Scripts\\GameStates\\GameFSM.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\GameStates\\GameFSM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAzczMzMwXwBIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T21:42:02.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StateMachineMB.cs",
               "DocumentMoniker": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\StateMachineMB.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\StateMachineMB.cs",
@@ -58,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "State.cs",
               "DocumentMoniker": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Assets\\_Game\\State.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\State.cs",
@@ -70,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TerrainLit.shader",
               "DocumentMoniker": "D:\\UTD Spring 2025\\Mobile Game Development\\Project 4\\Sunrunner\\Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Terrain\\TerrainLit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Terrain\\TerrainLit.shader",
@@ -78,7 +112,8 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a394fe607f89\\Shaders\\Terrain\\TerrainLit.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-03-29T19:38:24.916Z"
+              "WhenOpened": "2025-03-29T19:38:24.916Z",
+              "EditorCaption": ""
             }
           ]
         }
